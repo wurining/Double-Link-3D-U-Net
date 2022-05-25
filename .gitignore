@@ -1,0 +1,9 @@
+# Env
+/.vscode
+/.idea
+/.DS_Store
+/._.DS_Store
+
+# Framework
+/MNIST
+/lightning_logs
